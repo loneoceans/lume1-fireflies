@@ -1,4 +1,11 @@
 # lume1-fireflies-anduril
+
+>> **Update Jan 2024**
+>>
+>> Support for this driver (lume1-2020) has been added to the main Anduril repository which was recently migrated over to Github: https://github.com/ToyKeeper/anduril/.
+>>
+>> Firmware updates should be available in official builds shortly. This repo will be deprecated; please visit the link above for fresh builds of the newest version of Anduril for this driver, as well as other future Lume drivers. Appreciation goes to out ToyKeeper for the incredible work on FSM/Anduril, as well as the flashlight community for feedback and bug reports. More to come soon! 
+
 Anduril 2 firmware (Atmel Studio 7) for Lume1-Fireflies Driver
 For Hardware Revision B (lastest driver PCB has date 11/20)
 
